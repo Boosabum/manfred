@@ -1,0 +1,199 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Tania",
+      "surnames": "Iglesias Rodríguez",
+      "title": "Matemática especializada en gestión de negocios digitales",
+      "description": "He querido estudiar matemáticas desde que tengo uso de razón aunque nunca supe muy bien para qué. La experiencia laboral me ha demostrado que ha sido el punto de partida idóneo para desarrollar capacidades lógicas, técnicas y analíticas en la resolución de problemas tecnológicos, que es lo que realmente me apasiona.",
+      "avatar": {
+        "alt": "tania_iglesias_avatar.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/27/3c9cd266-7a09-4958-b3c4-8f19e6edc39a_tania_iglesias_avata.jpeg"
+      },
+      "location": {
+        "notes": "Noia, A Coruña, España"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/Boosabum"
+      },
+      {
+        "type": "other",
+        "URL": "https://taniaiglesias.info"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/tania_ir"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/boosabum/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Matemática",
+        "fact": "Estudiada en la USC - Universidad de Santiago de Compostela allá por 2006"
+      },
+      {
+        "topic": "Deportista de alto rendimiento",
+        "fact": "Taekwon-do ITF desde 1993 hasta hace unos años.\nCompeticiones nacionales e internacionales."
+      },
+      {
+        "topic": "Autónoma",
+        "fact": "Trabajando para pequeñas empresas y profesionales online desde 2015"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Galician"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Analytics",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trello",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Excel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Hubspot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MailChimp",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Airtable",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ActiveCampaign",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "web hosting",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHPMyAdmin",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/boosabum/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Airtable",
+          "type": "technology"
+        },
+        {
+          "name": "Excel",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": "C++",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
