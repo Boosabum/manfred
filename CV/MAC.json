@@ -1,563 +1,199 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-      "language": "ES",
-      "lastUpdate": "2022-05-27",
-      "MACVersion": "0.3"
-    },
-    "aboutMe": {
-      "profile": {
-        "name": "Tania",
-        "surnames": "Iglesias Rodríguez",
-        "title": "Matemática / Freelancer / Solución de problemas técnicos",
-        "description": "Llevo más de 7 años trabajando como freelance en el mundo de los negocios online: desarrollo en WordPress, gestión de equipos, diseño de procesos de negocio y marketing digital, entre otros.\n\nPero creo que lo que más me define es encontrar soluciones técnicas, mediante las herramientas o activos adecuados a los problemas que aparecen en los negocios digitales. Así como ofrecer soporte a clientes de mis clientes y mediar entre problemas y soluciones de las empresas para las que trabajo.\n\nMe gusta ser capaz de ofrecer las soluciones que la gente necesita, en un idioma claro y comprensible para fomentar la autonomía y capacidades de mis equipos, y que se pierda el miedo a la parte técnica de digitalizar empresas.\n",
-        "avatar": {
-          "alt": "foto de Tania Iglesias",
-          "link": "https://www.ponunadonnaentuvida.com/wp-content/uploads/2020/08/photo_2020-08-24-16.39.53-4.png"
-        },
-        "birthday": "1988-03-24"
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Tania",
+      "surnames": "Iglesias Rodríguez",
+      "title": "Matemática especializada en gestión de negocios digitales",
+      "description": "He querido estudiar matemáticas desde que tengo uso de razón aunque nunca supe muy bien para qué. La experiencia laboral me ha demostrado que ha sido el punto de partida idóneo para desarrollar capacidades lógicas, técnicas y analíticas en la resolución de problemas tecnológicos, que es lo que realmente me apasiona.",
+      "avatar": {
+        "alt": "tania_iglesias_avatar.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/27/3c9cd266-7a09-4958-b3c4-8f19e6edc39a_tania_iglesias_avata.jpeg"
       },
-      "relevantYearsOfExperience": 7,
-      "relevantLinks": [
+      "location": {
+        "notes": "Noia, A Coruña, España"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/Boosabum"
+      },
+      {
+        "type": "other",
+        "URL": "https://taniaiglesias.info"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/tania_ir"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/boosabum/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Matemática",
+        "fact": "Estudiada en la USC - Universidad de Santiago de Compostela allá por 2006"
+      },
+      {
+        "topic": "Deportista de alto rendimiento",
+        "fact": "Taekwon-do ITF desde 1993 hasta hace unos años.\nCompeticiones nacionales e internacionales."
+      },
+      {
+        "topic": "Autónoma",
+        "fact": "Trabajando para pequeñas empresas y profesionales online desde 2015"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Galician"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Analytics",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trello",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Excel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Hubspot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MailChimp",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Airtable",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ActiveCampaign",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "web hosting",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHPMyAdmin",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
         {
           "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/boosabum/",
-          "description": "Mi perfil en LinkedIn"
-        },
-        {
-          "type": "twitter",
-          "URL": "https://twitter.com/tania_ir",
-          "description": "Mi cuenta de Twitter"
-        },
-        {
-          "type": "github",
-          "URL": "https://github.com/boosabum",
-          "description": "Mi cuenta en GitHub"
-        },
-        {
-          "type": "website",
-          "URL": "https://taniaiglesias.info/",
-          "description": "Mi página web"
-        },
-       ],
-      "significativeRelationships": [
-        {
-          "name": "Nohemí",
-          "surnames": "Hervada",
-          "title": "Potenciadora de Talento, Liderazgo y Empoderamiento",
-          "description": "Me ayuda a mejorar mis habilidades de comunicación y relacionales dentro del ambiente de trabajo.",
-          "contact": {
-            "publicProfiles": [
-              {
-                "type": "linkedin",
-                "URL": "https://www.linkedin.com/in/nohemihervada/"
-              },
-              {
-                "type": "web",
-                "URL": "https://nohemi-hervada.com"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Cristina",
-          "surnames": "Muratori",
-          "title": "Project manager y creadora de soluciones",
-          "description": "Compañera con la que dialogo y descubro a diario nuevas posibilidades digitales.\n",
-          "contact": {
-            "publicProfiles": [
-              {
-                "type": "linkedin",
-                "URL": "https://www.linkedin.com/in/cristina-muratori/"
-              }
-            ]
-          }
-        },
-      ],
-      "interestingFacts": [
-        {
-          "topic": "Matemática",
-          "fact": "He querido estudiar matemáticas desde que tengo uso de razón aunque nunca supe muy bien para qué. La experiencia laboral me ha demostrado que ha sido el punto de partida idóneo para desarrollar capacidades lógicas, técnicas y analíticas en la resolución de problemas tecnológicos, que es lo que realmente me apasiona."
-        },
-        {
-          "fact": "La maternidad me hizo trabajar desde casa para no delegar una de las tareas más importantes de mi vida. La capacidad de concentración, gestión, planificación y productividad aumenta exponencialmente en esas circunstancias."
-        },
-        {
-          "fact": "He trabajado y continúo colaborando con más de 20 empresas y una de las cosas que más disfruto es descubrir y mejorar sus procesos internos en lo que a la parte técnica se refiere."
-        },
-        {
-          "fact": "Modero comunidades por la simple satisfacción de fomentar la pertenencia a un grupo y reforzar mis habilidades de gestión y proactividad."
-        },
-        {
-          "topic": "¿Cuáles son tus principales herramientas de trabajo (IDEs, editores de texto, clientes de correo, Excel...) y cómo las utilizas (plugins, configuraciones, trucos)?",
-          "fact": "Organizo mi vida personal con **2Do** (para Mac e iOS), mi agenda y notas laborales con **Notability** escribiendo a mano en el iPad y mis proyectos profesionales con **Discord**, **Trello** y **Airtable**. \n\nProgramo HTML/CSS/JavaScript con **Visual Studio Code**. Ofrezco servicios de mantenimiento **WordPress** para el que uso **ManageWP** y me comunico principalmente por **Telegram** con grupos, empresas y compañeras."
-        },
-        {
-          "topic": "¿Qué recursos online (webs, blogs, apps, foros, etc) usas para ayudarte a desempeñar tu trabajo?",
-          "fact": "Para informarme del mundo por las mañanas, voy a **Twitter** donde se reúnen muchas de las personas referentes en mi sector. También estoy apuntada a varias Newsletter, podcast y canales de **Twitch**, como puede ser el de **MoureDev**, que consumo con regularidad.\n\nSi me atasco con algo de código tiro de **Google** como casi todo el mundo.\n\nPertenezco a una comunidad de emprendedores digitales **Sabandijers** donde mucha gente con experiencia suele informar de novedades y estar al pie del cañón para resolver dudas de todo tipo.\n\nTambién me he lanzado a mejorar mis habilidades en programación gracias a **OpenBootcamp** que ofrecen formación gratuita de muy buen nivel enfocada directamente en el mundo laboral actual."
-        },
-        {
-          "topic": "¿Hay alguna empresa tecnológica que te llame la atención por lo bien que lo está haciendo?",
-          "fact": "Creo que [Automattic](https://www.automattic.com) está ofreciendo oportunidades laborales muy atractivas para sus trabajadores.\n\nTambién me gusta mucho la filosofía de [Clarity AI](https://clarity.ai/) y su prioridad enfocada en la sostenibilidad y concienciación."
-        },
-        {
-          "topic": "¿Cómo intentas mantener actualizados tus conocimientos y habilidades profesionales?",
-          "fact": "Leo mucho, y me rodeo de mucha gente con inquietudes por mejorar y aprender cada día más y más. En comunidades tech de **Discord** o **Twitch** principalmente."
-        },
-      ],
-      "recommendations": [
-        {
-          "title": "The Tall Lady with The Iceberg",
-          "type": "reading",
-          "authors": [
-                {
-                    "name": "Anne",
-                    "surnames": "Miller",
-                    "title": "Founder of Chiron Associates, Inc."
-              }
-          ],
-          "summary": "Un libro sobre cómo emplear metáforas para facilitar el proceso de explicar tu punto de vista a alguien."
-        }                    
+          "URL": "https://www.linkedin.com/in/boosabum/"
+        }
       ]
     },
-    "experience": {
-      "jobs": [
+    "preferences": {
+      "preferredCompetences": [
         {
-          "organization": {
-            "name": "Pon una Donna en tu vida",
-            "description": "Servicios de asistencia técnica para negocios online",
-            "URL": "https://www.ponunadonnaentuvida.com/",
-            "image": {
-              "alt": "Logo de PonunaDonnaentuvida",
-              "link": "https://www.ponunadonnaentuvida.com/wp-content/uploads/2019/04/Logo_Donna_RGB.png"
-            },
-            "location": {
-              "country": "ES",
-              "region": "A Coruña",
-              "municipality": "Noia",
-              "postalCode": "15200",
-              "address": "C/Venezuela, 13 1B"
-            }
-          },
-          "type": "autónoma",
-          "roles": [
-            {
-              "name": "Autónoma",
-              "startDate": "2015-01-01",
-              "challenges":  [
-                {
-                  "description": "Ayuda técnica para negocios online",
-                  "actions": [
-                    "Creación de sitios web con WordPress.",
-                    "Mantenimiento de sitios web creados con WordPress y Magento2."
-                  ]
-                },
-                {
-                  "description": "Asistencia online",
-                  "actions": [
-                    "Gestión de procesos de marketing online.",
-                    "Gestión de equipos y activos.",
-                    "Optimización de procesos."
-                  ]
-                },
-                {
-                  "description": "Soporte técnico",
-                  "actions": [
-                    "Soluciones técnicas a problemas de gestión digital de un negocio online.",
-                    "Prueba y testeo de herramientas digitales."
-                  ]
-                },
-                {
-                  "description": "Equipos de trabajo",
-                  "actions": [
-                    "Coordinación y comunicación entre los distintos departamentos de las empresas.",
-                  ]
-                },
-              ],
-              "competences": [
-                {
-                  "name": "WordPress",
-                  "type": "tool",
-                },
-                {
-                  "name": "Airtable",
-                  "type": "tool"
-                },
-                {
-                  "name": "Excel",
-                  "type": "tool"
-                },
-                {
-                  "name": "Trello",
-                  "type": "tool"
-                },
-                {
-                  "name": "AWS",
-                  "type": "tool"
-                },
-                {
-                  "name": "VisualStudio Code",
-                  "type": "tool"
-                },
-                {
-                  "name": "Discord",
-                  "type": "tool"
-                },
-                {
-                  "name": "IFTTT",
-                  "type": "tool"
-                },
-                {
-                  "name": "ActiveCampaign",
-                  "type": "tool"
-                },
-                {
-                  "name": "Sendinblue",
-                  "type": "tool"
-                },
-                {
-                  "name": "CSS",
-                  "type": "technology"
-                },
-                {
-                  "name": "HTML",
-                  "type": "technology"
-                },
-              ],
-              "referrals": [
-                {
-                  "name": "Nohemí",
-                  "surnames": "Hervada",
-                  "title": "Potenciadora de talento y liderazgo femenino",
-                  "contact": {
-                    "publicProfiles": [
-                      {
-                        "type": "linkedin",
-                        "URL": "https://www.linkedin.com/in/nohemihervada/"
-                      }
-                    ]
-                  }
-                },
-                {
-                  "name": "Sara",
-                  "surnames": "Sevilla Mena",
-                  "title": "Gerente en Granujas.es",
-                  "contact": {
-                    "publicProfiles": [
-                      {
-                        "type": "Web",
-                        "URL": "https://granujas.es/"
-                      }
-                    ],
-                    "contactMails": [
-                      "granujas@granujas.es"
-                    ]
-                  }
-                }
-              ]
-            }
-          ]
+          "name": "Airtable",
+          "type": "technology"
         },
         {
-          "organization": {
-            "name": "Hormigas en la Nube",
-            "description": "Soporte técnico a negocios online.",
-            "URL": "https://www.hormigasenlanube.com/",
-            "image": {
-              "alt": "Logo de Hormigas",
-              "link": "https://hormigasenlanube.com/wp-content/uploads/2019/08/logo-hormigas.png.webp"
-            },
-            "location": {
-              "country": "ES",
-              "region": "Sevilla",
-              "municipality": "Dos Hermanas"
-            }
-          },
-          "type": "company",
-          "roles": [
-            {
-              "name": "Head of support",
-              "startDate": "2020-12-01",
-              "finishDate": "2021-12-06",
-              "challenges": [
-                {
-                  "description": "Servicio técnico por mail a los clientes de soporte",
-                  "actions": [
-                    "Solución de problemas técnicos.",
-                    "Solución e implementación de mejoras web.",
-                    "Recomendaciones y tutoriales de uso de nuevas herramientas digitales.",
-                    "Optimización de procesos en negocios de clientes.",
-                  ]
-                },
-                {
-                  "description": "Diseño y desarrollo web",
-                  "actions": [
-                    "Creación de escuelas y academias web.",
-                    "Integración de herramientas digitales.",
-                    "Creación de funnels y campañas de marketing digital.",
-                  ]
-                },
-              ],
-              "competences": [
-                {
-                  "name": "WordPress",
-                  "type": "tool"
-                },
-                {
-                  "name": "Notion",
-                  "type": "tool"
-                },
-                {
-                  "name": "Trello",
-                  "type": "tool"
-                },
-                {
-                  "name": "Zoom",
-                  "type": "tool"
-                },
-                {
-                  "name": "Loom",
-                  "type": "tool"
-                },
-                {
-                  "name": "HelpWise",
-                  "type": "tool"
-                }
-              ],
-              "referrals": [
-                {
-                  "name": "Javier",
-                  "surnames": "Gobea",
-                  "title": "CEO",
-                  "contact": {
-                    "publicProfiles": [
-                      {
-                        "type": "linkedin",
-                        "URL": "https://www.linkedin.com/in/javier-gobea-llamas-00b31950/"
-                      }
-                    ]
-                  }
-                }
-              ]
-            }
-          ]
-        },
-      ],
-    },
-    "knowledge": {
-      "languages": [
-        {
-          "name": "ES",
-          "level": "Native or bilingual proficiency"
+          "name": "Excel",
+          "type": "technology"
         },
         {
-          "name": "EN",
-          "level": "Full professional proficiency"
+          "name": "Python",
+          "type": "technology"
         },
         {
-          "name": "GL",
-          "level": "Native or bilingual proficiency"
+          "name": "WordPress",
+          "type": "technology"
         }
       ],
-      "hardSkills": [
+      "discardedCompetences": [
         {
-          "skill": {
-            "name": "WordPress",
-            "type": "tool",
-            "description": "Administración, configuración y gestión avanzada de WordPress."
-          },
-          "level": "expert"
+          "name": ".NET",
+          "type": "technology"
         },
         {
-          "skill": {
-            "name": "Python",
-            "type": "technology"
-          },
-          "level": "high"
+          "name": "C++",
+          "type": "technology"
         }
-      ],
-      "softSkills": [
-        {
-          "skill": {
-            "name": "Solucionar problemas",
-            "type": "practice",
-            "description": "Encontrar respuestas y soluciones a desafíos técnicos."
-          },
-          "level": "expert"
-        },
-        {
-          "skill": {
-            "name": "Gestionar equipos y comunidades",
-            "type": "practice"
-          },
-          "level": "expert"
-        },
-        {
-          "skill": {
-            "name": "Orientado a metodología",
-            "type": "practice",
-            "description": "Localizar la forma óptima de realizar cualquier tipo de proceso."
-          },
-          "level": "expert"
-        },
-        {
-          "skill": {
-            "name": "Comunicación",
-            "type": "practice",
-            "description": "Comunicar necesidades, intenciones y feedback con efectividad y empatía."
-          },
-          "level": "expert"
-        },
-        {
-          "skill": {
-            "name": "DSC",
-            "type": "domain",
-            "description": "Talento en informe DISC con prevalencia de las letras D, S y C (Decisión, Serenidad y Cumplimiento). Orientada a Coordinación, Procesos e Información."
-          },
-          "level": "high"
-        }
-      ],
-      "studies": [
-        {
-          "studyType": "officialDegree",
-          "degreeAchieved": false,
-          "name": "Licenciatura en Matemáticas",
-          "description": "Math Grade",
-          "startDate": "2006-09-15",
-          "finishDate": "2012-06-30",
-          "institution": {
-            "name": "USC",
-            "description": "Universidad de Santiago de Compostela",
-            "URL": "https://www.usc.gal/",
-            "image": {
-              "alt": "logo de USC",
-              "link": "https://pro-assets-usc.azureedge.net/cdn/ff/7L0Qdag_kQ6hqDu9Q3mhUnJbmb59ZqGwfVw-WxlUvt0/1652177003/:relative:/themes/custom/usc_theme/logo.svg"
-            },
-            "location": {
-              "country": "ES",
-              "region": "Galicia",
-            }
-          }
-        },
-        {
-          "studyType": "certification",
-          "degreeAchieved": false,
-          "name": "OpenBootcamp",
-          "description": "Bootcamp tecnológico",
-          "startDate": "2022-05-15",
-          "finishDate": " ",
-          "institution": {
-            "name": "OpenBootcamp",
-            "description": "Bootcamp de mejora e implementación de lenguajes de programación enfocados en el mercado laboral actual.",
-            "location": {
-              "country": "ES",
-              "region": "online",
-            }
-          }
-        },
-      ]
-    },
-    "careerPreferences": {
-      "contact": {
-        "publicProfiles": [
-          {
-            "type": "manfred",
-            "URL": "https://www.getmanfred.com/es/perfil/boosabum"
-          }
-        ]
-      },
-      "status": "Available",
-      "requirements": {
-        "compensation": {
-          "salary": {
-            "currency": "EUR",
-            "from": 25000
-          },
-          "equity": {
-            "mustHave": true,
-            "from": 10
-          },
-          "perks": {
-            "mustHave": [
-              "Horario Flexible",
-              "Teletrabajo"
-            ],
-            "niceToHave": [
-              "Teambuilding",
-              "Proceso de embarque"
-            ]
-          }
-        },
-        "contractTypes": [
-          "permanent",
-          "freelance"
-        ],
-        "location": {
-          "remoteOnly": true,
-          "openToRelocate": false,
-          "openToRemote": true,
-          "workingAreas": [
-            {
-              "location": {
-                "country": "ES",
-                "region": "Galicia",
-                "municipality": "Noia"
-              },
-              "distanceFromMunicipality": {
-                "unit": "Km",
-                "amount": 40
-              }
-            },
-          ],
-          "comments": "Podría considerar mudarme a Málaga o Granada. En caso de no ser necesario, preferiría trabajar en remoto."
-        }
-      },
-      "preferences": {
-        "preferredCompetences": [
-          {
-            "name": "Sustainability",
-            "type": "practice",
-            "description": "Sostenibilidad"
-          },
-        ],
-        "discardedCompetences": [
-          {
-            "name": "organizaciones jerárquicas",
-            "type": "domain",
-            "description": "No quiero trabajar en un organización muy jerarquizada"
-          },
-          {
-            "name": "casas de apuestas",
-            "type": "domain"
-          },
-          {
-            "name": "tabaco",
-            "type": "domain"
-          },
-        ],
-        "preferredOrganizations": [
-          "startup",
-          "academicalInstitution"
-        ],
-        "preferredRoles": [
-          "Manager",
-          "Assistant",
-          "Tech support"
-        ]
-      },
-      "goals": [
-        {
-          "description": "Me gustaría trabajar en una compañía donde prevalezca la comunicación de equipo, la horizontalidad en los distintos departamentos y la empatía. Una empresa con profesionales que ante todo sean buenas personas con valores alineados con los míos y con quien se pueda conversar además de trabajar."
-        },
-        {
-          "description": "Una organización donde los fracasos sean un punto más a batir en el día a día, no un motivo de culpa o menosprecio, sino oportunidades para seguir aprendiendo y creciendo."
-        },
-        {
-          "description": "Una empresa enfocada en los objetivos y que se desafíe a sí misma en cada nuevo proyecto."
-        },
-        {
-          "description": "Un equipo en el que todos sus miembros se apoyen unos a otros a lograr sus objetivos individuales y colectivos.."
-        },
       ]
     }
   }
+}
