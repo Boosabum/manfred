@@ -15,7 +15,9 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/27/3c9cd266-7a09-4958-b3c4-8f19e6edc39a_tania_iglesias_avata.jpeg"
       },
       "location": {
-        "notes": "Noia, A Coruña, España"
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "Noia"
       }
     },
     "relevantLinks": [
@@ -66,13 +68,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Python",
+          "name": "WordPress",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "HTML",
+          "name": "Python",
           "type": "technology"
         }
       },
@@ -84,7 +86,25 @@
       },
       {
         "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHPMyAdmin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ActiveCampaign",
           "type": "technology"
         }
       },
@@ -96,13 +116,7 @@
       },
       {
         "skill": {
-          "name": "WordPress",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
+          "name": "Microsoft Excel",
           "type": "technology"
         }
       },
@@ -114,13 +128,19 @@
       },
       {
         "skill": {
-          "name": "Excel",
+          "name": "Hubspot",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Hubspot",
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "web hosting",
           "type": "technology"
         }
       },
@@ -133,24 +153,6 @@
       {
         "skill": {
           "name": "Airtable",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ActiveCampaign",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "web hosting",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHPMyAdmin",
           "type": "technology"
         }
       }
@@ -172,7 +174,7 @@
           "type": "technology"
         },
         {
-          "name": "Excel",
+          "name": "Microsoft Excel",
           "type": "technology"
         },
         {
