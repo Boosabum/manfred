@@ -87,7 +87,25 @@
       },
       {
         "skill": {
+          "name": "Balsamiq",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
           "type": "technology"
         }
       },
@@ -112,6 +130,12 @@
       {
         "skill": {
           "name": "Hubspot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -148,6 +172,12 @@
       {
         "skill": {
           "name": "Trello",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
           "type": "technology"
         }
       },
@@ -372,6 +402,28 @@
     }
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "Figma",
+        "type": "technology"
+      },
+      {
+        "name": "GitLab",
+        "type": "technology"
+      },
+      {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "Visual Studio Code",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Me gustaría un puesto de trabajo donde primara la comunicación del equipo, un buen ambiente incluso trabajando en remoto. Un lugar donde sentirse a gusto, que plantee retos y ofrezca posibilidades para seguir aprendiendo y creciendo tanto laboral como social y emocionalmente.",
     "goodPractices": "TDD"
   }
