@@ -58,6 +58,48 @@
     "jobs": [
       {
         "organization": {
+          "name": "Avature",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/84cdc438-c6b7-41c6-8def-6399aa5c9d19_logo--hiring-organiz.png",
+            "alt": "logo--hiring-organization.png"
+          },
+          "URL": "https://avature.net"
+        },
+        "roles": [
+          {
+            "name": "Senior Tech Analyst",
+            "startDate": "2022-11-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Freelance",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/4ba2d765-5173-4f37-ad48-1ac2d17855f3_donna_rgb.jpg",
