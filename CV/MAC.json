@@ -336,6 +336,10 @@
           "type": "technology"
         },
         {
+          "name": "WooCommerce",
+          "type": "technology"
+        },
+        {
           "name": "WordPress",
           "type": "technology"
         }
