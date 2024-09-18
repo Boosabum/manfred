@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "EN",
-    "MACVersion": "0.3"
+    "language": "ES",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -11,33 +11,16 @@
       "title": "Matemática especializada en product management",
       "description": "He querido estudiar matemáticas desde que tengo uso de razón aunque nunca supe muy bien para qué. La experiencia laboral me ha demostrado que ha sido el punto de partida idóneo para desarrollar capacidades lógicas, técnicas y analíticas en la resolución de problemas tecnológicos, que es lo que realmente me apasiona.",
       "avatar": {
-        "alt": "tania_iglesias_avatar.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/27/3c9cd266-7a09-4958-b3c4-8f19e6edc39a_tania_iglesias_avata.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/27/3c9cd266-7a09-4958-b3c4-8f19e6edc39a_tania_iglesias_avata.jpeg",
+        "alt": "tania_iglesias_avatar.jpeg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ57bFi04gLw0R8FPKc4L1BAQ)",
         "country": "España",
         "region": "Galicia",
         "municipality": "Noia"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/Boosabum"
-      },
-      {
-        "type": "other",
-        "URL": "https://taniaiglesias.info"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/tania_ir"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/boosabum/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Matemática",
@@ -51,30 +34,54 @@
         "topic": "Product manager y WordPress expert",
         "fact": "Trabajando para empresas y freelance online desde 2015"
       }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/boosabum/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/Boosabum"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/tania_ir"
+      },
+      {
+        "type": "other",
+        "URL": "https://taniaiglesias.info"
+      }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Galician"
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "GL",
+        "fullName": "Gallego",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "WordPress",
+          "name": "ActiveCampaign",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Python",
+          "name": "Airtable",
           "type": "technology"
         }
       },
@@ -86,7 +93,37 @@
       },
       {
         "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Analytics",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Hubspot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MailChimp",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Excel",
           "type": "technology"
         }
       },
@@ -104,19 +141,7 @@
       },
       {
         "skill": {
-          "name": "ActiveCampaign",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Analytics",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Microsoft Excel",
+          "name": "Python",
           "type": "technology"
         }
       },
@@ -128,13 +153,7 @@
       },
       {
         "skill": {
-          "name": "Hubspot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
+          "name": "WordPress",
           "type": "technology"
         }
       },
@@ -143,17 +162,25 @@
           "name": "web hosting",
           "type": "technology"
         }
-      },
+      }
+    ],
+    "softSkills": [
       {
         "skill": {
-          "name": "MailChimp",
-          "type": "technology"
+          "name": "Inteligencia emocional",
+          "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Airtable",
-          "type": "technology"
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactividad",
+          "type": "practice"
         }
       }
     ]
@@ -162,9 +189,20 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/boosabum/"
+          "URL": "https://www.linkedin.com/in/boosabum/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/Boosabum",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/tania_ir",
+          "type": "twitter"
         }
+      ],
+      "contactMails": [
+        "tania.iglesias.rodriguez@gmail.com"
       ]
     },
     "preferences": {
@@ -195,7 +233,17 @@
           "name": "C++",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Product Manager",
+        "QA & Testing Engineer",
+        "Support Engineer"
       ]
-    }
+    },
+    "status": "notAvailable"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me gustaría un puesto de trabajo donde primara la comunicación del equipo, un buen ambiente incluso trabajando en remoto. Un lugar donde sentirse a gusto, que plantee retos y ofrezca posibilidades para seguir aprendiendo y creciendo tanto laboral como social y emocionalmente.",
+    "goodPractices": "TDD"
   }
 }
