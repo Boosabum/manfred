@@ -248,6 +248,10 @@
           "type": "technology"
         },
         {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
           "name": "GitLab",
           "type": "technology"
         },
