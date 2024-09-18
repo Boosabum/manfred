@@ -220,6 +220,14 @@
           "type": "technology"
         },
         {
+          "name": "GitLab",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
           "name": "JavaScript",
           "type": "technology"
         },
