@@ -328,6 +328,10 @@
           "type": "technology"
         },
         {
+          "name": "R",
+          "type": "technology"
+        },
+        {
           "name": "WordPress",
           "type": "technology"
         }
