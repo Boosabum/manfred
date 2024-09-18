@@ -100,6 +100,28 @@
       },
       {
         "organization": {
+          "name": "Hormigas en la nube",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/2229a223-cc11-4aee-8be6-02f2bec66dfb_hormigas-vertical-co.png",
+            "alt": "Hormigas-vertical-color-RGBSmall.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Tech Support",
+            "startDate": "2020-12-01",
+            "finishDate": "2021-11-01",
+            "competences": [
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Freelance",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/4ba2d765-5173-4f37-ad48-1ac2d17855f3_donna_rgb.jpg",
