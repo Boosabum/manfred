@@ -300,6 +300,10 @@
           "type": "technology"
         },
         {
+          "name": "Matlab",
+          "type": "technology"
+        },
+        {
           "name": "Microsoft Excel",
           "type": "technology"
         },
