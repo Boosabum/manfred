@@ -208,6 +208,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "ActiveCampaign",
+          "type": "technology"
+        },
+        {
           "name": "Airtable",
           "type": "technology"
         },
