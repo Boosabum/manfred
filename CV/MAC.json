@@ -264,6 +264,10 @@
           "type": "technology"
         },
         {
+          "name": "Google Search Console",
+          "type": "technology"
+        },
+        {
           "name": "Google Tag Manager",
           "type": "technology"
         },
