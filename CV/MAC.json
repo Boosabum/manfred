@@ -220,12 +220,6 @@
       },
       {
         "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Google Analytics",
           "type": "technology"
         }
@@ -233,12 +227,6 @@
       {
         "skill": {
           "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Hubspot",
           "type": "technology"
         }
       },
@@ -257,12 +245,6 @@
       {
         "skill": {
           "name": "Microsoft Excel",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
           "type": "technology"
         }
       },
