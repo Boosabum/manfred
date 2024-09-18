@@ -240,7 +240,12 @@
         "Support Engineer"
       ]
     },
-    "status": "notAvailable"
+    "status": "notAvailable",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
   },
   "manfredSpecificData": {
     "desiredJobDescription": "Me gustaría un puesto de trabajo donde primara la comunicación del equipo, un buen ambiente incluso trabajando en remoto. Un lugar donde sentirse a gusto, que plantee retos y ofrezca posibilidades para seguir aprendiendo y creciendo tanto laboral como social y emocionalmente.",
