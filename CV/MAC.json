@@ -54,6 +54,73 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Freelance",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/18/4ba2d765-5173-4f37-ad48-1ac2d17855f3_donna_rgb.jpg",
+            "alt": "Donna_RGB.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Freelance",
+            "startDate": "2015-01-01",
+            "finishDate": "2022-10-01",
+            "challenges": [
+              {
+                "description": "Freelance especializada en WordPress y Marketing Digital"
+              }
+            ],
+            "competences": [
+              {
+                "name": ".htaccess",
+                "type": "technology"
+              },
+              {
+                "name": "ActiveCampaign",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "MailChimp",
+                "type": "technology"
+              },
+              {
+                "name": "Monday",
+                "type": "technology"
+              },
+              {
+                "name": "Notion",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
