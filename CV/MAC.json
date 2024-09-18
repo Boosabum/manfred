@@ -316,6 +316,10 @@
           "type": "technology"
         },
         {
+          "name": "Moodle",
+          "type": "technology"
+        },
+        {
           "name": "Python",
           "type": "technology"
         },
