@@ -264,6 +264,10 @@
           "type": "technology"
         },
         {
+          "name": "Google Optimize",
+          "type": "technology"
+        },
+        {
           "name": "Google Search Console",
           "type": "technology"
         },
