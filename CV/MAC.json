@@ -256,6 +256,10 @@
           "type": "technology"
         },
         {
+          "name": "Google Analytics",
+          "type": "technology"
+        },
+        {
           "name": "HTML",
           "type": "technology"
         },
