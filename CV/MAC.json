@@ -244,6 +244,10 @@
           "type": "technology"
         },
         {
+          "name": "Fortran",
+          "type": "technology"
+        },
+        {
           "name": "GitLab",
           "type": "technology"
         },
