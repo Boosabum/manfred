@@ -194,6 +194,18 @@
         }
       }
     ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado en Matemáticas",
+        "startDate": "2006-09-01",
+        "institution": {
+          "name": "USC"
+        },
+        "finishDate": "2012-09-01"
+      }
+    ],
     "softSkills": [
       {
         "skill": {
