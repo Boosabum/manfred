@@ -355,9 +355,6 @@
           "URL": "https://twitter.com/tania_ir",
           "type": "twitter"
         }
-      ],
-      "contactMails": [
-        "tania.iglesias.rodriguez@gmail.com"
       ]
     },
     "preferences": {
@@ -519,7 +516,7 @@
         "Support Engineer"
       ]
     },
-    "status": "notAvailable",
+    "status": "openToOffers",
     "requirements": {
       "contractTypes": [
         "permanent"
