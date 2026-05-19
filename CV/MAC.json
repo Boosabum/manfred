@@ -315,6 +315,12 @@
     "softSkills": [
       {
         "skill": {
+          "name": "Gestión de equipo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Pensamiento analítico",
           "type": "practice"
         }
