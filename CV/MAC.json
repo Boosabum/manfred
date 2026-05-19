@@ -175,6 +175,39 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Qatar Airways Careers & Internal Mobility Portals",
+          "description": "Portal Delivery Owner"
+        },
+        "type": "launch",
+        "publishingDate": "2026-04-01",
+        "tags": [
+          "Portales de empleo"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Figma",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Jira",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Siemens Careers portal",
           "description": "Delivery owner"
         },
