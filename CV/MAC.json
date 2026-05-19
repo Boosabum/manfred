@@ -39,18 +39,6 @@
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/boosabum/"
-      },
-      {
-        "type": "github",
-        "URL": "https://github.com/Boosabum"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/tania_ir"
-      },
-      {
-        "type": "other",
-        "URL": "https://taniaiglesias.info"
       }
     ]
   },
@@ -351,14 +339,6 @@
         {
           "URL": "https://www.linkedin.com/in/boosabum/",
           "type": "linkedin"
-        },
-        {
-          "URL": "https://github.com/Boosabum",
-          "type": "github"
-        },
-        {
-          "URL": "https://twitter.com/tania_ir",
-          "type": "twitter"
         }
       ]
     },
