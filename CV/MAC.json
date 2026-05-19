@@ -171,6 +171,41 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Siemens Careers portal",
+          "description": "Delivery owner"
+        },
+        "type": "launch",
+        "publishingDate": "2025-09-01",
+        "tags": [
+          "Portales de empleo"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Figma",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Jira",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
