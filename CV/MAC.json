@@ -377,6 +377,10 @@
           "type": "technology"
         },
         {
+          "name": "Claude Code",
+          "type": "technology"
+        },
+        {
           "name": "Figma",
           "type": "technology"
         },
